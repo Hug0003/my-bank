@@ -1,46 +1,36 @@
-# Titre du Projet
+# Bank app
 
 ## 📄 Description
+C'est un site web dynamique de banque, avec votre gestion de votre argent pouvoir faire des prets à la banque, envoyer votre argent à un autre compte, accumuler des interets. Fait dans la cadre d'une formation Udemy avec Jonas Schmedtmann
 
 
 
 ## 🎥 Démo Visuelle
-
+![Capture d'écran 2025-01-11 1](https://github.com/user-attachments/assets/06bf049d-7b78-4185-afe9-43847e991011)
+![Capture d'écran 2025-01-11 2](https://github.com/user-attachments/assets/32286903-68ed-478d-9664-d09c76e08cf2)
 
 ## ✨ Fonctionnalités
 
-- [x] Fonctionnalité 1  
-- [x] Fonctionnalité 2  
-- [ ] Fonctionnalité à venir  
-
+- [x] Se connecter et se déconnecter (ça vous déconnecte après 10 min d'inactivité)  
+- [x] voir toutes vos dépense et recette
+- [x] faire un prêt à la banque
+- [x] envoyer de l'argent à un autre compte
 
 ## 🚀 Installation
 
 ### Prérequis
-- Liste des dépendances (Node.js, Python, etc.)
-- Instructions pour les installer.
+pas de prérequis car c'est de l'HTML CSS JS
 
 ### Étapes d'installation
-
 # Clonez le projet
-git clone https://github.com/utilisateur/projet.git
+git clone https://github.com/Hug0003/my-bank.git
 
-# Accédez au répertoire
-cd projet
-
-# Installez les dépendances
-npm install  # ou pip install -r requirements.txt
 
 # Lancez le projet
-npm start  # ou python app.py
-
+lancer le live server depuis index.html
 
 ## 📚 Usage
-
-Expliquez comment utiliser le projet après installation.  
-Inclure des exemples de commandes ou captures d’écran.
-
-
+gerer vos compte ( de manière fictive bien sur )
 
 ## 👥 Contributeurs
 
@@ -50,13 +40,11 @@ Inclure des exemples de commandes ou captures d’écran.
 Les pull requests sont les bienvenues. Pour les changements majeurs, ouvrez une issue d'abord pour discuter de ce que vous souhaitez changer.  
 
 
-
 ## 🛠️ Technologies Utilisées
 
-- Technologie 1  
-- Technologie 2  
-- Technologie 3  
-
+- HTML
+- CSS
+- JS  
 
 
 ## 📬 Contact
@@ -65,3 +53,4 @@ Pour toute question, contactez-moi :
 - GitHub : [@monprofil](https://github.com/Hug0003)  
 - E-mail : hugomeuriel@gmail.com
 
+[@monprofil](https://github.com/Hug0003)  /2024

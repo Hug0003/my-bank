@@ -12,7 +12,7 @@ C'est un site web dynamique de banque, avec votre gestion de votre argent pouvoi
 ## ✨ Fonctionnalités
 
 - [x] Se connecter et se déconnecter (ça vous déconnecte après 10 min d'inactivité)  
-- [x] voir toutes vos dépense et recette
+- [x] voir toutes vos dépenses et recettes
 - [x] faire un prêt à la banque
 - [x] envoyer de l'argent à un autre compte
 
